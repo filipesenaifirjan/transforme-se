@@ -1,5 +1,6 @@
 body {
   font-family: Arial, helvetica, sans-serif;
+  whidt: 940px;
 }
 h1 {
   color: #303030;
@@ -8,6 +9,13 @@ h1 {
 h2 {
   border-color: black;
   border-botton-style: solid;
+}
+figure {
+  text-aling: center;
+  background-color: yellow;
+  color: blue;
+  padding: 15px;
+  margin: 30px;
 }
 p {
   text-aling: center;
